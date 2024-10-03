@@ -10,41 +10,102 @@ function love.load()
       love.graphics.setBackgroundColor(0.2, 0.2, 0.2)
 
 
+      -- UI Setup
+
+      UI = {
+            playArea = {
+                  x = 100,
+                  y = 100,
+                  color = { 0.75, 0.75, 0.75 }
+            },
+            hand = {
+                  x = 0,
+                  y = love.graphics.getHeight() / 3 * 2,
+                  color = { 0.6, 0.6, 0.6 }
+            },
+            endTurnButton = {
+                  w = 100,
+                  h = 50,
+                  x = love.graphics.getWidth() - 100,
+                  y = love.graphics.getHeight() / 2 - 25,
+            }
+      }
+
       -- Game setup
 
-      GameObjects = {}
-
-      -- Deck
-      Deck = {
-
+      Game = {
+            endTurn = function()
+                  Hand:clear()
+                  PlayedCards:clear()
+                  Hand:drawCard(5)
+            end
       }
+      GameObjects = {}
 
       -- Card
       Cards = require('cards')
 
-      Hand = {
-            hasSpacer = false,
-            spacerIndex = -1,
+      -- Deck
+      Deck = {
             cards = {},
             addCard = function(self, card)
                   table.insert(self.cards, card)
                   io.write("Added a " .. card.text .. " card to hand.\n")
             end
       }
-      -- for i = 1, 5, 1 do
-      --       local newCard = Card:new()
-      --       newCard.color = { math.random(), math.random(), math.random() }
-      --       Hand:addCard(newCard)
-      -- end
 
-      Hand:addCard(Cards['blueCard']:new())
-      Hand:addCard(Cards['blueCard']:new())
-      Hand:addCard(Cards['blueCard']:new())
-      Hand:addCard(Cards['greenCard']:new())
-      Hand:addCard(Cards['greenCard']:new())
+      Deck:addCard(Cards['blueCard']:new())
+      Deck:addCard(Cards['blueCard']:new())
+      Deck:addCard(Cards['blueCard']:new())
+      Deck:addCard(Cards['greenCard']:new())
+      Deck:addCard(Cards['greenCard']:new())
 
-      PlayedCards = {}
-      table.insert(PlayedCards, Cards['greenCard']:new())
+      -- Discard
+      Discard = {
+            cards = {}
+      }
+
+
+      Hand = {
+            hasSpacer = false,
+            spacerIndex = -1,
+            cards = {},
+            addCard = function(self, card)
+                  table.insert(self.cards or {}, card)
+                  io.write("Added a " .. card.text .. " card to hand.\n")
+            end,
+            drawCard = function(self, count)
+                  for i = 1, count or 1, 1 do
+                        if #Deck.cards < 1 then
+                              table.move(Discard.cards, 1, #Discard.cards, 1, Deck.cards)
+                              Discard.cards = {}
+                        end
+                        self.addCard(table.remove(Deck.cards))
+                  end
+            end,
+            clear = function(self)
+                  io.write("Clearing " .. #self.cards .. " from hand.\n")
+                  for i = 1, #self.cards, 1 do
+                        table.insert(Discard.cards, table.remove(self.cards))
+                  end
+                  io.write("Cleared cards from hand.\n")
+            end
+
+      }
+      for i = 1, 5, 1 do
+            Hand:addCard(table.remove(Deck.cards))
+      end
+
+      PlayedCards = {
+            cards = {},
+            clear = function(self)
+                  io.write("Clearing " .. #self.cards .. ".\n")
+                  for i = 1, #self.cards, 1 do
+                        table.insert(Discard.cards, table.remove(self.cards))
+                  end
+                  io.write("Cleared Played Cards.\n")
+            end
+      }
 
       cursorCard = nil
       cursorCardID = nil
@@ -55,52 +116,55 @@ function love.update(dt)
 end
 
 function love.draw()
+      -- Played Cards
+      for i = 1, #PlayedCards.cards, 1 do
+            if not PlayedCards.cards[i] then goto continue end
+            local card = PlayedCards.cards[i]
+            card.scale = 0.6
+            card.w = 213
+            card.h = 300
+            -- Increment Row when edge of screen reached
+            card.y = 50 +
+                ((math.modf((i * card.w) / love.graphics.getWidth())) * card.h)
+            -- Reset to 0 X when row incremented
+            card.x = card.w * (i - 1) -
+                ((math.modf((i * card.w) / love.graphics.getWidth())) * (math.modf(love.graphics.getWidth() / card.w) * card.w))
+            card.text = tostring(card.scale)
+            card:draw()
+            ::continue::
+      end
+
+      -- Hand and cards in Hand
       love.graphics.setColor(0.6, 0.6, 0.6)
       love.graphics.rectangle("fill", 0, love.graphics.getHeight() / 3 * 2, love.graphics.getWidth(),
             love.graphics.getHeight() / 3)
 
-      -- love.graphics.setColor(1, 1, 1)
       for i = 1, #Hand.cards, 1 do
             if not Hand.cards[i] then goto continue end
             if Hand.cards[i].text == "spacer" then goto continue end
-            if Hand.cards[i].dragging then
-                  love.graphics.setColor(.5, .5, .5)
-            else
-                  love.graphics.setColor(Hand.cards[i].color)
-                  Hand.cards[i].x = Hand.cards[i].w * (i - 1)
-                  Hand.cards[i].y = love.graphics.getHeight() / 3 * 2
-            end
-            love.graphics.draw(Hand.cards[i].img, Hand.cards[i].x, Hand.cards[i].y)
-            love.graphics.setColor(0, 0, 0)
-            love.graphics.print(Hand.cards[i].text, Hand.cards[i].x, Hand.cards[i].y)
+            Hand.cards[i].x = Hand.cards[i].w * (i - 1)
+            Hand.cards[i].y = love.graphics.getHeight() / 3 * 2
+            Hand.cards[i]:draw()
             ::continue::
       end
 
+      -- Cursor Card
       if cursorCard then
-            love.graphics.setColor(cursorCard.color)
-            love.graphics.draw(cursorCard.img, cursorCard.x, cursorCard.y)
-            love.graphics.setColor(0, 0, 0)
-            love.graphics.print(cursorCard.text, cursorCard.x, cursorCard.y)
+            cursorCard:draw()
       end
 
 
-      for i = 1, #PlayedCards, 1 do
-            if not PlayedCards[i] then goto continue end
-            local card = PlayedCards[i]
-            love.graphics.setColor(card.color)
-            card.w = 213
-            card.h = 300
-            card.x = card.w * (i - 1)
-            card.y = 50
-            love.graphics.draw(card.img, card.x, card.y)
-            love.graphics.setColor(0, 0, 0)
-            love.graphics.print(card.text, card.x, card.y)
-            ::continue::
-      end
-      love.graphics.print("Played Cards: ", 100, 0)
+      love.graphics.setColor(1, 1, 1)
+      love.graphics.print("Played Cards: " .. #PlayedCards.cards, 100, 25)
 
 
-      love.graphics.print(Hand.spacerIndex)
+      -- End turn button
+      love.graphics.rectangle("fill", UI.endTurnButton.x, UI.endTurnButton.y, UI.endTurnButton.w, UI.endTurnButton.h)
+      love.graphics.setColor(0, 0, 0)
+      love.graphics.print("END TURN", UI.endTurnButton.x + 5, UI.endTurnButton.y)
+
+
+      -- love.graphics.print(Hand.spacerIndex)
 end
 
 function love.mousepressed(x, y, button, istouch)
@@ -108,7 +172,7 @@ function love.mousepressed(x, y, button, istouch)
             return
       end
       for i = 1, #Hand.cards, 1 do
-            if i < 1 then return end
+            if not Hand.cards[i] then goto continue end
             if x > Hand.cards[i].x and x <= Hand.cards[i].x + Hand.cards[i].w and y > Hand.cards[i].y and y <= Hand.cards[i].y + Hand.cards[i].h then
                   Hand.cards[i].dragging = true
                   cursorCard = Hand.cards[i]:new()
@@ -117,8 +181,12 @@ function love.mousepressed(x, y, button, istouch)
                   table.remove(Hand.cards, i)
                   -- cursorCard.x = x - cursorCard.w
                   -- cursorCard.y = y - cursorCard.h
-                  return
+                  goto continue
             end
+            ::continue::
+      end
+      if x > UI.endTurnButton.x and x <= (UI.endTurnButton.x + UI.endTurnButton.w) and y > UI.endTurnButton.y and y <= (UI.endTurnButton.y + UI.endTurnButton.h) then
+            Game.endTurn()
       end
 end
 
@@ -134,12 +202,12 @@ function love.mousereleased(x, y, button, istouch)
                   cursorCard.text = indexToMove
                   table.insert(Hand.cards, indexToMove, cursorCard:new())
                   io.write("Dropped " .. cursorCard.text .. ".\n")
-                  for i = #Hand.cards, 1, -1 do
-                        if Hand.cards[i] and Hand.cards[i].text == "spacer" then
-                              table.remove(Hand.cards, i)
-                              -- Hand.hasSpacer = false
-                              Hand.spacerIndex = -1
-                        end
+            end
+            for i = #Hand.cards, 1, -1 do
+                  if Hand.cards[i] and Hand.cards[i].text == "spacer" then
+                        table.remove(Hand.cards, i)
+                        -- Hand.hasSpacer = false
+                        Hand.spacerIndex = -1
                   end
             end
       end
