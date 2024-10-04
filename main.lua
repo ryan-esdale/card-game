@@ -31,10 +31,24 @@ function love.load()
             }
       }
 
+      -- Cursor Modes
+      CursorMode = {
+            none = "NONE",
+            dragging = "DRAGGING",
+            discard = "DISCARD"
+      }
+
       -- Game setup
 
       Game = {
+            cursorMode = CursorMode.none,
+            discardCount = 0,
+            discardCallback = function()
+            end,
+            turnCount = 1,
+            buyingPower = 0,
             endTurn = function()
+                  Game.buyingPower = 0
                   Hand:clear()
                   PlayedCards:clear()
                   Hand:drawCard(5)
@@ -48,17 +62,18 @@ function love.load()
       -- Deck
       Deck = {
             cards = {},
-            addCard = function(self, card)
-                  table.insert(self.cards, card)
-                  io.write("Added a " .. card.text .. " card to hand.\n")
+            addCard = function(self, card, count)
+                  for i = 1, count or 1, 1 do
+                        local tempCard = Cards[card]:new()
+                        table.insert(self.cards, tempCard)
+                        io.write("Added a " .. tempCard.text .. " card to hand.\n")
+                  end
             end
       }
 
-      Deck:addCard(Cards['blueCard']:new())
-      Deck:addCard(Cards['blueCard']:new())
-      Deck:addCard(Cards['blueCard']:new())
-      Deck:addCard(Cards['greenCard']:new())
-      Deck:addCard(Cards['greenCard']:new())
+
+      Deck:addCard('greenCard', 3)
+      Deck:addCard('copper', 7)
 
       -- Discard
       Discard = {
@@ -71,20 +86,34 @@ function love.load()
             spacerIndex = -1,
             cards = {},
             addCard = function(self, card)
-                  table.insert(self.cards or {}, card)
+                  table.insert(self.cards, card)
                   io.write("Added a " .. card.text .. " card to hand.\n")
             end,
             drawCard = function(self, count)
+                  io.write("Drawing " .. count .. " cards.\n")
                   for i = 1, count or 1, 1 do
                         if #Deck.cards < 1 then
+                              io.write("Not enough cards in deck, forcing reshuffle.\n")
                               table.move(Discard.cards, 1, #Discard.cards, 1, Deck.cards)
                               Discard.cards = {}
+                              if #Deck.cards == 0 then
+                                    return
+                              end
                         end
-                        self.addCard(table.remove(Deck.cards))
+                        self:addCard(table.remove(Deck.cards))
                   end
             end,
+            discard = function(self, index)
+                  if not self.cards[index] then
+                        return
+                  end
+                  local cardToDiscard = self.cards[index]
+                  io.write("Discarding " .. cardToDiscard.text .. " card.\n")
+                  table.insert(Discard.cards, table.remove(self.cards, index))
+            end,
+
             clear = function(self)
-                  io.write("Clearing " .. #self.cards .. " from hand.\n")
+                  io.write("Clearing " .. #self.cards .. " cards from hand.\n")
                   for i = 1, #self.cards, 1 do
                         table.insert(Discard.cards, table.remove(self.cards))
                   end
@@ -99,9 +128,11 @@ function love.load()
       PlayedCards = {
             cards = {},
             clear = function(self)
-                  io.write("Clearing " .. #self.cards .. ".\n")
+                  io.write("Clearing " .. #self.cards .. " played cards.\n")
                   for i = 1, #self.cards, 1 do
-                        table.insert(Discard.cards, table.remove(self.cards))
+                        local card = table.remove(self.cards)
+                        card.scale = 1
+                        table.insert(Discard.cards or {}, card)
                   end
                   io.write("Cleared Played Cards.\n")
             end
@@ -121,14 +152,12 @@ function love.draw()
             if not PlayedCards.cards[i] then goto continue end
             local card = PlayedCards.cards[i]
             card.scale = 0.6
-            card.w = 213
-            card.h = 300
             -- Increment Row when edge of screen reached
             card.y = 50 +
-                ((math.modf((i * card.w) / love.graphics.getWidth())) * card.h)
+                ((math.modf((i * card.w * card.scale) / love.graphics.getWidth())) * card.h * card.scale)
             -- Reset to 0 X when row incremented
-            card.x = card.w * (i - 1) -
-                ((math.modf((i * card.w) / love.graphics.getWidth())) * (math.modf(love.graphics.getWidth() / card.w) * card.w))
+            card.x = card.w * card.scale * (i - 1) -
+                ((math.modf((i * card.w * card.scale) / love.graphics.getWidth())) * (math.modf(love.graphics.getWidth() / card.w * card.scale) * card.w * card.scale))
             card.text = tostring(card.scale)
             card:draw()
             ::continue::
@@ -153,10 +182,14 @@ function love.draw()
             cursorCard:draw()
       end
 
-
+      -- Turn stats
       love.graphics.setColor(1, 1, 1)
-      love.graphics.print("Played Cards: " .. #PlayedCards.cards, 100, 25)
+      love.graphics.print("Buying Power: " .. Game.buyingPower, 0, 25)
 
+      -- Discard indicator
+      if Game.cursorMode == CursorMode.discard then
+            love.graphics.print("Choose " .. Game.discardCount .. " more card(s) to discard.", 100, 200, 0, 10, 10)
+      end
 
       -- End turn button
       love.graphics.rectangle("fill", UI.endTurnButton.x, UI.endTurnButton.y, UI.endTurnButton.w, UI.endTurnButton.h)
@@ -164,7 +197,12 @@ function love.draw()
       love.graphics.print("END TURN", UI.endTurnButton.x + 5, UI.endTurnButton.y)
 
 
-      -- love.graphics.print(Hand.spacerIndex)
+      -- Debug stuff
+      love.graphics.setColor(1, 1, 1)
+      love.graphics.print("Cards in hand: " ..
+            #Hand.cards ..
+            ", Cards in Play: " ..
+            #PlayedCards.cards .. ", Cards in Deck: " .. #Deck.cards .. ", Cards in Discard: " .. #Discard.cards)
 end
 
 function love.mousepressed(x, y, button, istouch)
@@ -174,14 +212,25 @@ function love.mousepressed(x, y, button, istouch)
       for i = 1, #Hand.cards, 1 do
             if not Hand.cards[i] then goto continue end
             if x > Hand.cards[i].x and x <= Hand.cards[i].x + Hand.cards[i].w and y > Hand.cards[i].y and y <= Hand.cards[i].y + Hand.cards[i].h then
-                  Hand.cards[i].dragging = true
-                  cursorCard = Hand.cards[i]:new()
-                  io.write("Picked up " .. cursorCard.text .. ".\n")
-                  cursorCardID = i
-                  table.remove(Hand.cards, i)
-                  -- cursorCard.x = x - cursorCard.w
-                  -- cursorCard.y = y - cursorCard.h
-                  goto continue
+                  local selectedCard = Hand.cards[i]
+                  if Game.cursorMode == CursorMode.none then
+                        -- Hand.cards[i].dragging = true
+                        cursorCard = selectedCard:new()
+                        io.write("Picked up " .. cursorCard.text .. ".\n")
+                        cursorCardID = i
+                        table.remove(Hand.cards, i)
+                        -- cursorCard.x = x - cursorCard.w
+                        -- cursorCard.y = y - cursorCard.h
+                        goto continue
+                  elseif Game.cursorMode == CursorMode.discard then
+                        io.write("Discarding " .. selectedCard.text .. ".\n")
+                        Hand:discard(i)
+                        Game.discardCount = Game.discardCount - 1
+                        if Game.discardCount <= 0 then
+                              Game.discardCallback()
+                              Game.cursorMode = CursorMode.none
+                        end
+                  end
             end
             ::continue::
       end
@@ -199,7 +248,6 @@ function love.mousereleased(x, y, button, istouch)
                   cursorCard.dragging = false
                   local indexToMove = math.modf(x / cursorCard.w) + 1 -- Add one becuase lua arrays are 1-indexed
                   if indexToMove > #Hand.cards + 1 then indexToMove = #Hand.cards + 1 end
-                  cursorCard.text = indexToMove
                   table.insert(Hand.cards, indexToMove, cursorCard:new())
                   io.write("Dropped " .. cursorCard.text .. ".\n")
             end
