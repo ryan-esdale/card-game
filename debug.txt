@@ -151,3 +151,2535 @@ Added a 0.6 card to hand.
 Added a 0.6 card to hand.
 
 
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+
+
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new 1 card.
+Dropped 1.
+Created a new 1 card.
+Picked up 1.
+Created a new 1 card.
+Dropped 1.
+Created a new 1 card.
+Picked up 1.
+Created a new 1 card.
+Dropped 1.
+Created a new 1 card.
+Picked up 1.
+Created a new 1 card.
+Dropped 1.
+Created a new 1 card.
+Picked up 1.
+Created a new 1 card.
+Dropped 1.
+Created a new 1 card.
+Picked up 1.
+Created a new 1 card.
+Dropped 1.
+Created a new 1 card.
+Picked up 1.
+Created a new 1 card.
+Dropped 1.
+Created a new 1 card.
+Picked up 1.
+Created a new 1 card.
+Dropped 1.
+Created a new 1 card.
+Picked up 1.
+Created a new 1 card.
+Dropped 1.
+Created a new 1 card.
+Picked up 1.
+Created a new 1 card.
+Dropped 1.
+Created a new 1 card.
+Picked up 1.
+Created a new 1 card.
+Dropped 1.
+Created a new 1 card.
+Picked up 1.
+Created a new 1 card.
+Dropped 1.
+Created a new 1 card.
+Picked up 1.
+Created a new 1 card.
+Dropped 1.
+Created a new 1 card.
+Picked up 1.
+Created a new 1 card.
+Dropped 1.
+Created a new 1 card.
+Picked up 1.
+Created a new 1 card.
+Dropped 1.
+Created a new 1 card.
+Picked up 1.
+Created a new 1 card.
+Dropped 1.
+Created a new Copper card.
+Picked up Copper.
+Created a new 4 card.
+Dropped 4.
+Created a new 4 card.
+Picked up 4.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new 1 card.
+Picked up 1.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 5 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Copper.
+Discarding Copper card.
+Discarding Green Card.
+Discarding Green Card card.
+Drawing 4 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Green Card card to hand.
+Added a Copper card to hand.
+Added a 0.6 card to hand.
+Added a 0.6 card to hand.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 3 cards from hand.
+Cleared cards from hand.
+Clearing 2 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Green Card.
+Discarding Green Card card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Added a 0.6 card to hand.
+Added a 0.6 card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new 2 card.
+Dropped 2.
+Created a new 2 card.
+Picked up 2.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 5 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Copper.
+Discarding Copper card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a 0.6 card to hand.
+Added a 0.6 card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+
+
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 5 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Copper.
+Discarding Copper card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a 2 card to hand.
+Added a 2 card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Copper.
+Discarding Copper card.
+Discarding 2.
+Discarding 2 card.
+Drawing 4 cards.
+Added a 3 card to hand.
+Added a 2 card to hand.
+Added a 2 card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a 2 card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding 2.
+Discarding 2 card.
+Discarding 2.
+Discarding 2 card.
+Drawing 4 cards.
+Added a Copper card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a 2 card to hand.
+Added a 2 card to hand.
+Not enough cards in deck, forcing reshuffle.
+Created a new Copper card.
+Picked up Copper.
+Created a new 3 card.
+Dropped 3.
+Created a new 2 card.
+Picked up 2.
+Created a new 2 card.
+Picked up 2.
+Created a new 4 card.
+Dropped 4.
+Created a new 4 card.
+Picked up 4.
+Created a new 3 card.
+Picked up 3.
+Created a new 2 card.
+Picked up 2.
+Created a new 3 card.
+Picked up 3.
+Created a new 2 card.
+Picked up 2.
+Created a new Copper card.
+Picked up Copper.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 10 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a 4 card to hand.
+Added a 3 card to hand.
+Added a 2 card to hand.
+Added a 4 card to hand.
+Added a 4 card to hand.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 5 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 5 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Copper.
+Discarding Copper card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Copper.
+Discarding Copper card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Copper.
+Discarding Copper card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Added a Copper card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Not enough cards in deck, forcing reshuffle.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+
+
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+
+
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Clearing 4 cards from hand.
+Cleared cards from hand.
+Clearing 1 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+
+
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 5 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Test Card card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Test Card card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 2 cards from hand.
+Cleared cards from hand.
+Clearing 3 played cards.
+
+
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Added a Green Card card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Test Card card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 5 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Created a new Green Card card.
+Dropped Green Card.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Copper.
+Discarding Copper card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Copper.
+Discarding Copper card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Copper.
+Discarding Copper card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Added a Copper card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Not enough cards in deck, forcing reshuffle.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 10 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Green Card.
+Discarding Green Card card.
+Discarding Green Card.
+Discarding Green Card card.
+Drawing 4 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 7 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Added a Copper card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Copper.
+Discarding Copper card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Copper.
+Discarding Copper card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Added a Green Card card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Copper.
+Discarding Copper card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Added a Copper card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Not enough cards in deck, forcing reshuffle.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 10 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Green Card card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Discard Me card.
+Added a Discard Me card to hand.
+Created a new Quick Draw card.
+Added a Quick Draw card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Test Card card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Quick Draw card to hand.
+Added a Discard Me card to hand.
+Created a new Discard Me card.
+Picked up Discard Me.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Discard Me card.
+Added a Discard Me card to hand.
+Created a new Quick Draw card.
+Added a Quick Draw card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Test Card card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Quick Draw card to hand.
+Added a Discard Me card to hand.
+Created a new Discard Me card.
+Picked up Discard Me.
+Created a new Discard Me card.
+Dropped Discard Me.
+Created a new Discard Me card.
+Picked up Discard Me.
+Created a new Discard Me card.
+Dropped Discard Me.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Created a new Discard Me card.
+Picked up Discard Me.
+Created a new Discard Me card.
+Dropped Discard Me.
+Created a new Discard Me card.
+Picked up Discard Me.
+Created a new Discard Me card.
+Dropped Discard Me.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Test Card card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Test Card card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 5 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Test Card card to hand.
+Added a Test Card card to hand.
+Added a Test Card card to hand.
+Added a Test Card card to hand.
+Added a Test Card card to hand.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Test Card card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Test Card card.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 5 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+
+
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Copper card.
+Added a Copper card to hand.
+Created a new Discard Me card.
+Added a Discard Me card to hand.
+Created a new Quick Draw card.
+Added a Quick Draw card to hand.
+Created a new Test Card card.
+Added a Quick Draw card to hand.
+Added a Discard Me card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Discard Me card.
+Picked up Discard Me.
+Created a new Discard Me card.
+Dropped Discard Me.
+Created a new Discard Me card.
+Picked up Discard Me.
+Created a new Discard Me card.
+Dropped Discard Me.
+Created a new Discard Me card.
+Picked up Discard Me.
+Created a new Discard Me card.
+Dropped Discard Me.
+Created a new Discard Me card.
+Picked up Discard Me.
+Created a new Discard Me card.
+Dropped Discard Me.
+Created a new Discard Me card.
+Picked up Discard Me.
+Created a new Discard Me card.
+Dropped Discard Me.
+Created a new Discard Me card.
+Picked up Discard Me.
+Created a new Discard Me card.
+Dropped Discard Me.
+Created a new Discard Me card.
+Picked up Discard Me.
+Created a new Discard Me card.
+Dropped Discard Me.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Discard Me.
+Discarding Discard Me card.
+Drawing 2 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 6 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Quick Draw card to hand.
+Added a Copper card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Discard Me card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 1 cards from hand.
+Cleared cards from hand.
+Clearing 4 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Discard Me card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 1 cards from hand.
+Cleared cards from hand.
+Clearing 4 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Quick Draw card to hand.
+Added a Copper card to hand.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Copper.
+Discarding Copper card.
+Drawing 2 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 6 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Discard Me card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Quick Draw card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Discard Me card to hand.
+Added a Quick Draw card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Discard Me card to hand.
+Added a Quick Draw card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Discard Me card to hand.
+Added a Quick Draw card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Discard Me card to hand.
+Added a Quick Draw card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Discard Me card to hand.
+Added a Quick Draw card to hand.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Test Card card.
+Added a Quick Draw card to hand.
+Added a Discard Me card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Test Card card.
+Added a Quick Draw card to hand.
+Added a Discard Me card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Test Card card.
+Added a Quick Draw card to hand.
+Added a Discard Me card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Copper card.
+Picked up Copper.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Test Card card.
+Added a Quick Draw card to hand.
+Added a Discard Me card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Discard Me.
+Discarding Discard Me card.
+Drawing 2 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 6 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 4 cards from hand.
+Cleared cards from hand.
+Clearing 1 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Quick Draw card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Copper.
+Discarding Copper card.
+Drawing 2 cards.
+Added a Green Card card to hand.
+Added a Discard Me card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Discard Me.
+Discarding Discard Me card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Added a Green Card card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Discard Me card to hand.
+Added a Copper card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Discard Me.
+Discarding Discard Me card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Copper.
+Discarding Copper card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Added a Copper card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Clearing 8 cards from hand.
+Cleared cards from hand.
+Clearing 4 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Discard Me card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Q
+
+uick Draw card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Created a new Quick Draw card.
+Dropped Quick Draw.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Quick Draw.
+Discarding Quick Draw card.
+Discarding Discard Me.
+Discarding Discard Me card.
+Drawing 4 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+Clearing 6 cards from hand.
+Cleared cards from hand.
+Clearing 1 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Green Card card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Discard Me card to hand.
+Added a Quick Draw card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Discard Me.
+Discarding Discard Me card.
+Discarding Quick Draw.
+Discarding Quick Draw card.
+Drawing 4 cards.
+Added a Green Card card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Test Card card.
+Added a Quick Draw card to hand.
+Added a Discard Me card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Discard Me.
+Discarding Discard Me card.
+Drawing 2 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 6 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 1 cards from hand.
+Cleared cards from hand.
+Clearing 4 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Quick Draw card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Copper.
+Discarding Copper card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Added a Green Card card to hand.
+Added a Discard Me card to hand.
+Added a Green Card card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Discard Me.
+Discarding Discard Me card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Copper.
+Discarding Copper card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Copper.
+Discarding Copper card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Copper.
+Discarding Copper card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Added a Copper card to hand.
+Added a Discard Me card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Discard Me.
+Discarding Discard Me card.
+Drawing 2 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Discard Me card to hand.
+Not enough cards in deck, forcing reshuffle.
+Created a new Discard Me card.
+Picked up Discard Me.
+Created a new Discard Me card.
+Dropped Discard Me.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 1 cards from hand.
+Cleared cards from hand.
+Clearing 14 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
