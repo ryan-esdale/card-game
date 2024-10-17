@@ -2683,3 +2683,651 @@ Added a Green Card card to hand.
 Added a Green Card card to hand.
 Added a Green Card card to hand.
 Added a Green Card card to hand.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Test Card card.
+Added a Quick Draw card to hand.
+Added a Discard Me card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Discard Me card.
+Picked up Discard Me.
+Created a new Discard Me card.
+Dropped Discard Me.
+Created a new Discard Me card.
+Picked up Discard Me.
+Created a new Discard Me card.
+Dropped Discard Me.
+Created a new Discard Me card.
+Picked up Discard Me.
+Created a new Discard Me card.
+Dropped Discard Me.
+Created a new Discard Me card.
+Picked up Discard Me.
+Created a new Discard Me card.
+Dropped Discard Me.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Discard Me.
+Discarding Discard Me card.
+Drawing 2 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 3 cards from hand.
+Cleared cards from hand.
+Clearing 3 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Quick Draw card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Copper.
+Discarding Copper card.
+Drawing 2 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Clearing 1 cards from hand.
+Cleared cards from hand.
+Clearing 5 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Discard Me card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Discard Me.
+Discarding Discard Me card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Discard Me card to hand.
+Added a Copper card to hand.
+Added a Quick Draw card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Dropped Copper.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Discard Me.
+Discarding Discard Me card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Copper.
+Discarding Copper card.
+Drawing 2 cards.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Copper.
+Discarding Copper card.
+Discarding Copper.
+Discarding Copper card.
+Drawing 4 cards.
+Added a Copper card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Copper card.
+Added a Copper card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Test Card card.
+Added a Quick Draw card to hand.
+Added a Discard Me card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Added a Copper card to hand.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+Created a new Copper card.
+Picked up Copper.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Test Card card.
+Added a Quick Draw card to hand.
+Added a Discard Me card to hand.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Created a new Test Card card.
+
+
+Created a new Test Card card.
+
+
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Test Card card.
+Added a Quick Draw card to hand.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Dropped Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Discard Me card.
+Picked up Discard Me.
+Created a new Discard Me card.
+Dropped Discard Me.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Discard Me.
+Discarding Discard Me card.
+Drawing 2 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 6 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Dropped Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 5 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Added a Quick Draw card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Green Card card to hand.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 2 cards.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 4 cards.
+Added a Discard Me card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Discard Me card.
+Picked up Discard Me.
+Created a new Discard Me card.
+Dropped Discard Me.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Discard Me.
+Discarding Discard Me card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 4 cards.
+Added a
+
+ Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 4 cards.
+Added a Asteroid card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 4 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Discard Me card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Discard Me.
+Discarding Discard Me card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 4 cards.
+Added a Asteroid card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Added a Discard Me card to hand.
+Not enough cards in deck, forcing reshuffle.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Clearing 1 cards from hand.
+Cleared cards from hand.
+Clearing 14 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Quick Draw card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Added a Green Card card to hand.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Test Card card.
+Added a Quick Draw card to hand.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Test Card card.
+Added a Quick Draw card to hand.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Discard Me.
+Discarding Discard Me card.
+Drawing 2 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+
+

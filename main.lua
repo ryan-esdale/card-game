@@ -11,6 +11,13 @@ function checkMouseOver(x, y, object)
       return false
 end
 
+function colorConv(tuple)
+      if #tuple ~= 3 then
+            return { 0, 0, 0 }
+      end
+      return { tuple[1] / 255, tuple[2] / 255, tuple[3] / 255 }
+end
+
 function love.load()
       io.write("\n\n")
 
@@ -103,7 +110,7 @@ function love.load()
       Deck.graphic.title = 'Deck'
 
 
-      Deck:addCard('copper', 8)
+      Deck:addCard('asteroid', 8)
       Deck:addCard('discardMe')
       Deck:addCard('quickDraw')
 
