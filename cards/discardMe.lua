@@ -7,7 +7,8 @@ discardMe.text = "UNPLAYABLE\nWhen discarded add 2 buying power."
 discardMe.color = Util.colorConv({ 199, 113, 113 })
 discardMe.playable = false
 discardMe.onDiscard = function(self)
-      Game.buyingPower = Game.buyingPower + 2
+      Game.players[Game.activePlayer].buyingPower = Game.players[Game.activePlayer].buyingPower + 2
+      CardTemplate.onDiscard(self)
 end
 
 return discardMe

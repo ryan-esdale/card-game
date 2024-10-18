@@ -7,10 +7,11 @@ local greenCard = CardTemplate:new()
 greenCard.title = "Green Card"
 greenCard.text = "Discard 2 cards \nDraw 4 cards."
 greenCard.color = { 0, 1, 0 }
-greenCard.cost = 2
+greenCard.buyCost = 4
+greenCard.playCost = 2
 greenCard.play = function(self)
       Game.discardCallback = function()
-            Hand:drawCard(4)
+            Game.players[Game.activePlayer].hand:drawCard(4)
       end
 
       CardTemplate.play(self)

@@ -2,7 +2,7 @@ local debugFile = io.open('debug.txt', 'a+')
 io.output(debugFile)
 
 Util = require('lib.util')
-
+Player = require('player')
 
 function love.load()
       io.write("\n\n")
@@ -56,119 +56,145 @@ function love.load()
             discard = "DISCARD"
       }
 
-      -- Game setup
+      -- Card
+      Cards = require('loadCards')
 
+      -- Game setup
       Game = {
+            maxPlayers = 1,
+            players = {},
+            activePlayer = 1,
             cursorMode = CursorMode.none,
             discardCount = 0,
             discardCallback = function()
             end,
             turnCount = 1,
-            buyingPower = 0,
             endTurn = function()
-                  Game.buyingPower = 0
-                  Hand:clear()
-                  PlayedCards:clear()
-                  Hand:drawCard(5)
+                  local p = Game.players[Game.activePlayer]
+                  p.buyingPower = 0
+                  p.hand:clear()
+                  p.playedCards:clear()
+                  p.hand:drawCard(5)
                   Game.turnCount = Game.turnCount + 1
-            end
-      }
-      GameObjects = {}
-
-      -- Card
-      Cards = require('loadCards')
-
-      -- Deck
-      Deck = {
-            graphic = Cards['testCard']:new(),
-            cards = {},
-            addCard = function(self, card, count)
-                  for i = 1, count or 1, 1 do
-                        local tempCard = Cards[card]:new()
-                        table.insert(self.cards, tempCard)
-                        io.write("Added a " .. tempCard.title .. " card to deck.\n")
+                  Game.activePlayer = Game.activePlayer + 1
+                  if Game.activePlayer > Game.maxPlayers then
+                        Game.activePlayer = 1
                   end
             end
       }
-      Deck.graphic.color = { 1, 1, 1 }
-      Deck.graphic.x = UI.hand.x + UI.hand.w + 50
-      Deck.graphic.y = UI.hand.y + 5
-      Deck.graphic.title = 'Deck'
+      for i = 1, Game.maxPlayers, 1 do
+            -- Deck
+            local p = Player:new(i)
+            Game.players[i] = p
 
 
-      Deck:addCard('asteroid', 8)
-      Deck:addCard('discardMe')
-      Deck:addCard('quickDraw')
+            p.deck = {
+                  graphic = Cards['testCard']:new(),
+                  cards = {},
+                  addCard = function(self, card, count)
+                        for i = 1, count or 1, 1 do
+                              local tempCard = Cards[card]:new()
+                              table.insert(self.cards, tempCard)
+                              io.write("Added a " .. tempCard.title .. " card to deck.\n")
+                        end
+                  end,
+                  new = function(self)
+                        local o = {}
+                        setmetatable(o, self)
+                        self.__index = self
+                        return o
+                  end,
+            }
 
-      -- Discard
-      Discard = {
-            graphic = Cards['testCard']:new(),
-            cards = {}
-      }
-      Discard.graphic.color = { 1, 1, 1 }
-      Discard.graphic.x = UI.hand.x + UI.hand.w + Discard.graphic.w + 100
-      Discard.graphic.y = UI.hand.y + 5
-      Discard.graphic.title = 'Discard'
+            p.deck:addCard('asteroid', 7)
+            p.deck:addCard('discardMe')
+            p.deck:addCard('quickDraw')
+            p.deck:addCard('richAsteroid')
+            Util.shuffle(p.deck.cards)
+            p.deck.graphic.color = { 1, 1, 1 }
+            p.deck.graphic.x = UI.hand.x + UI.hand.w + 50
+            p.deck.graphic.y = UI.hand.y + 5
+            p.deck.graphic.title = 'Deck'
 
+            p.discard = {
+                  graphic = Cards['testCard']:new(),
+                  cards = {}
+            }
 
-      Hand = {
-            hasSpacer = false,
-            spacerIndex = -1,
-            cards = {},
-            addCard = function(self, card)
-                  table.insert(self.cards, card)
-                  io.write("Added a " .. card.title .. " card to hand.\n")
-            end,
-            drawCard = function(self, count)
-                  io.write("Drawing " .. count .. " cards.\n")
-                  for i = 1, count or 1, 1 do
-                        if #Deck.cards < 1 then
-                              io.write("Not enough cards in deck, forcing reshuffle.\n")
-                              table.move(Discard.cards, 1, #Discard.cards, 1, Deck.cards)
-                              Discard.cards = {}
-                              if #Deck.cards == 0 then
-                                    return
+            -- Discard
+            p.discard.graphic.color = { 1, 1, 1 }
+            p.discard.graphic.x = UI.hand.x + UI.hand.w + p.discard.graphic.w + 100
+            p.discard.graphic.y = UI.hand.y + 5
+            p.discard.graphic.title = 'Discard'
+
+            p.hand = {
+                  hasSpacer = false,
+                  spacerIndex = -1,
+                  cards = {},
+                  addCard = function(self, card)
+                        table.insert(self.cards, card)
+                        io.write("Added a " .. card.title .. " card to hand.\n")
+                  end,
+                  drawCard = function(self, count)
+                        io.write("Drawing " .. count .. " cards.\n")
+                        for i = 1, count or 1, 1 do
+                              if #p.deck.cards < 1 then
+                                    io.write("Not enough cards in deck, forcing reshuffle.\n")
+                                    table.move(p.discard.cards, 1, #p.discard.cards, 1,
+                                          p.deck.cards)
+                                    p.discard.cards = {}
+                                    Util.shuffle(p.deck.cards)
+                                    if #p.deck.cards == 0 then
+                                          return
+                                    end
+                              end
+                              self:addCard(table.remove(p.deck.cards))
+                              self.cards[#self.cards]:onDraw()
+                        end
+                  end,
+                  discard = function(self, index)
+                        if not self.cards[index] then
+                              return
+                        end
+                        local cardToDiscard = self.cards[index]
+                        io.write("Discarding " .. cardToDiscard.title .. " card.\n")
+                        cardToDiscard:onDiscard()
+                        table.insert(p.discard.cards, table.remove(self.cards, index))
+                  end,
+
+                  clear = function(self)
+                        io.write("Clearing " .. #self.cards .. " cards from hand.\n")
+                        for i = 1, #self.cards, 1 do
+                              local c = table.remove(self.cards)
+                              if not c.ethereal then
+                                    table.insert(p.discard.cards, table.remove(self.cards))
                               end
                         end
-                        self:addCard(table.remove(Deck.cards))
-                        self.cards[#self.cards]:onDraw()
+                        io.write("Cleared cards from hand.\n")
                   end
-            end,
-            discard = function(self, index)
-                  if not self.cards[index] then
-                        return
-                  end
-                  local cardToDiscard = self.cards[index]
-                  io.write("Discarding " .. cardToDiscard.title .. " card.\n")
-                  cardToDiscard:onDiscard()
-                  table.insert(Discard.cards, table.remove(self.cards, index))
-            end,
 
-            clear = function(self)
-                  io.write("Clearing " .. #self.cards .. " cards from hand.\n")
-                  for i = 1, #self.cards, 1 do
-                        table.insert(Discard.cards, table.remove(self.cards))
-                  end
-                  io.write("Cleared cards from hand.\n")
+            }
+            for i = 1, 5, 1 do
+                  p.hand:addCard(table.remove(p.deck.cards))
             end
 
-      }
-      for i = 1, 5, 1 do
-            Hand:addCard(table.remove(Deck.cards))
+            p.playedCards = {
+                  cards = {},
+                  clear = function(self)
+                        io.write("Clearing " .. #self.cards .. " played cards.\n")
+                        for i = 1, #self.cards, 1 do
+                              local card = table.remove(self.cards)
+                              card.scale = Cards['testCard'].scale
+                              if not card.ethereal then
+                                    table.insert(p.discard.cards, card)
+                              end
+                        end
+                        io.write("Cleared Played Cards.\n")
+                  end
+            }
       end
+      GameObjects = {}
 
-      PlayedCards = {
-            cards = {},
-            clear = function(self)
-                  io.write("Clearing " .. #self.cards .. " played cards.\n")
-                  for i = 1, #self.cards, 1 do
-                        local card = table.remove(self.cards)
-                        card.scale = Cards['testCard'].scale
-                        table.insert(Discard.cards or {}, card)
-                  end
-                  io.write("Cleared Played Cards.\n")
-            end
-      }
 
       Shop = {
             {}
@@ -195,21 +221,27 @@ function love.draw()
                   Shop[i][1].y = UI.shop.y
                   Shop[i][1]:draw()
                   love.graphics.setColor(1, 1, 1)
-                  love.graphics.printf(#Shop[i] .. "Remaining", Shop[i][1].x, Shop[i][1].y + Shop[i][1].h + 10,
+                  love.graphics.printf(#Shop[i] .. " Remaining", Shop[i][1].x, Shop[i][1].y + Shop[i][1].h + 10,
                         Shop[i][1].w, 'center')
             end
       end
 
       -- Deck
-      Deck.graphic.text = #Deck.cards .. " Card(s)"
-      Deck.graphic:draw()
+      Game.players[Game.activePlayer]
+      .deck.graphic.text = #Game.players[Game.activePlayer].deck.cards .. " Card(s)"
+      Game.players[Game.activePlayer]
+          .deck.graphic:draw()
 
       -- Discard
-      Discard.graphic.text = #Discard.cards .. " Card(s)"
-      Discard.graphic:draw()
+      Game.players[Game.activePlayer]
+      .discard.graphic.text = #Game.players[Game.activePlayer]
+          .discard.cards .. " Card(s)"
+      Game.players[Game.activePlayer]
+          .discard.graphic:draw()
 
       -- Played Cards
-      for i, card in ipairs(PlayedCards.cards) do
+      for i, card in ipairs(Game.players[Game.activePlayer]
+            .playedCards.cards) do
             -- if not PlayedCards.cards[i] then goto continue end
             -- card.scale = 0.6
             -- Increment Row when edge of screen reached
@@ -228,12 +260,13 @@ function love.draw()
       love.graphics.setColor(0.6, 0.6, 0.6)
       love.graphics.rectangle("fill", UI.hand.x, UI.hand.y, UI.hand.w, UI.hand.h)
 
-      for i = 1, #Hand.cards, 1 do
-            if not Hand.cards[i] then goto continue end
-            if Hand.cards[i].title == "spacer" then goto continue end
-            Hand.cards[i].x = UI.hand.x + Hand.cards[i].w * (i - 1) + (8 * i)
-            Hand.cards[i].y = UI.hand.y + 5
-            Hand.cards[i]:draw()
+      for i = 1, #Game.players[Game.activePlayer].hand.cards, 1 do
+            if not Game.players[Game.activePlayer].hand.cards[i] then goto continue end
+            if Game.players[Game.activePlayer].hand.cards[i].title == "spacer" then goto continue end
+            Game.players[Game.activePlayer].hand.cards[i].x = UI.hand.x +
+                Game.players[Game.activePlayer].hand.cards[i].w * (i - 1) + (8 * i)
+            Game.players[Game.activePlayer].hand.cards[i].y = UI.hand.y + 5
+            Game.players[Game.activePlayer].hand.cards[i]:draw()
             ::continue::
       end
 
@@ -244,7 +277,7 @@ function love.draw()
 
       -- Turn stats
       love.graphics.setColor(1, 1, 1)
-      love.graphics.print("Buying Power: " .. Game.buyingPower, 0, 25)
+      love.graphics.print("Buying Power: " .. Game.players[Game.activePlayer].buyingPower, 0, 25)
 
       -- Discard indicator
       if Game.cursorMode == CursorMode.discard then
@@ -260,15 +293,27 @@ function love.draw()
       -- Debug stuff
       love.graphics.setColor(1, 1, 1)
       love.graphics.print("Cards in hand: " ..
-            #Hand.cards ..
+            #Game.players[Game.activePlayer].hand.cards ..
             ", Cards in Play: " ..
-            #PlayedCards.cards .. ", Cards in Deck: " .. #Deck.cards .. ", Cards in Discard: " .. #Discard.cards)
+            #Game.players[Game.activePlayer].playedCards.cards ..
+            ", Cards in Deck: " ..
+            #Game.players[Game.activePlayer].deck.cards ..
+            ", Cards in Discard: " .. #Game.players[Game.activePlayer].discard.cards
+            .. ", Active player: " .. Game.activePlayer)
+      local s = "DecK: "
+      for i = 1, #Game.players[Game.activePlayer].deck.cards, 1 do
+            s = s .. Game.players[Game.activePlayer].deck.cards[i].title .. " "
+      end
+      love.graphics.print(s, 50, 100)
 end
 
 function love.mousepressed(x, y, button, istouch)
       if button ~= 1 then
             return
       end
+      local p = Game.players[Game.activePlayer]
+      local Hand = p.hand
+      local Discard = p.discard
       for i = 1, #Hand.cards, 1 do
             if not Hand.cards[i] then goto continue end
             if Util.checkMouseOver(x, y, Hand.cards[i]) then
@@ -301,8 +346,8 @@ function love.mousepressed(x, y, button, istouch)
       end
       for i = 1, #Shop, 1 do
             if #Shop[i] > 0 and Util.checkMouseOver(x, y, Shop[i][1]) then
-                  if Game.buyingPower >= Shop[i][1].cost then
-                        Game.buyingPower = Game.buyingPower - Shop[i][1].cost
+                  if p.buyingPower >= Shop[i][1].buyCost then
+                        p.buyingPower = p.buyingPower - Shop[i][1].buyCost
                         table.insert(Discard.cards, table.remove(Shop[i]))
                   end
             end
@@ -314,6 +359,9 @@ end
 
 function love.mousereleased(x, y, button, istouch)
       -- Iterate backwards so removing doesn't skip items
+      local p = Game.players[Game.activePlayer]
+      local Hand = p.hand
+      local Discard = p.discard
       if cursorCard then
             if (cursorCard.y + cursorCard.h / 2) < love.graphics.getHeight() / 3 * 2 and cursorCard.playable then
                   cursorCard:play()
@@ -337,6 +385,8 @@ function love.mousereleased(x, y, button, istouch)
 end
 
 function love.mousemoved(x, y, dx, dy)
+      local p = Game.players[Game.activePlayer]
+      local Hand = p.hand
       if cursorCard then
             cursorCard.x = cursorCard.x + dx
             cursorCard.y = cursorCard.y + dy

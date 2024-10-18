@@ -1,3 +1,6 @@
+local debugFile = io.open('debug.txt', 'a+')
+io.output(debugFile)
+
 local Util = {}
 
 Util.checkMouseOver = function(x, y, object)
@@ -14,6 +17,15 @@ Util.colorConv = function(tuple)
             return { 0, 0, 0 }
       end
       return { tuple[1] / 255, tuple[2] / 255, tuple[3] / 255 }
+end
+
+Util.shuffle = function(tbl)
+      --Thanks to Uradamus https://gist.github.com/Uradamus/10323382
+      for i = #tbl, 2, -1 do
+            local j = math.random(i)
+            tbl[i], tbl[j] = tbl[j], tbl[i]
+      end
+      return tbl
 end
 
 return Util
