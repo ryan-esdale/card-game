@@ -22,6 +22,7 @@ end
 Util.shuffle = function(tbl)
       --Thanks to Uradamus https://gist.github.com/Uradamus/10323382
       for i = #tbl, 2, -1 do
+            -- local j = math.random(os.time())
             local j = math.random(i)
             tbl[i], tbl[j] = tbl[j], tbl[i]
       end
