@@ -3331,3 +3331,181 @@ Created a new Asteroid card.
 Picked up Asteroid.
 
 
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Test Card card.
+Added a Quick Draw card to hand.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+
+
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Test Card card.
+Added a Quick Draw card to hand.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Discard Me.
+Discarding Discard Me card.
+Drawing 2 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Clearing 2 cards from hand.
+Cleared cards from hand.
+Clearing 4 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Added a Quick Draw card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Discard Me card to hand.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+
+

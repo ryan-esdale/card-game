@@ -1,22 +1,8 @@
 local debugFile = io.open('debug.txt', 'a+')
 io.output(debugFile)
 
+Util = require('lib.util')
 
-function checkMouseOver(x, y, object)
-      if object.x and object.y and object.w and object.h then
-            if x > object.x and x <= object.x + object.w and y > object.y and y <= object.y + object.h then
-                  return true
-            end
-      end
-      return false
-end
-
-function colorConv(tuple)
-      if #tuple ~= 3 then
-            return { 0, 0, 0 }
-      end
-      return { tuple[1] / 255, tuple[2] / 255, tuple[3] / 255 }
-end
 
 function love.load()
       io.write("\n\n")
@@ -90,7 +76,7 @@ function love.load()
       GameObjects = {}
 
       -- Card
-      Cards = require('cards')
+      Cards = require('loadCards')
 
       -- Deck
       Deck = {
@@ -188,7 +174,7 @@ function love.load()
             {}
       }
       for i = 1, 10, 1 do
-            local tempCard = Cards['greenCard']:new()
+            local tempCard = Cards['fastLooting']:new()
             table.insert(Shop[1], tempCard)
             io.write("Added a " .. tempCard.title .. " card to Shop.\n")
       end
@@ -285,7 +271,7 @@ function love.mousepressed(x, y, button, istouch)
       end
       for i = 1, #Hand.cards, 1 do
             if not Hand.cards[i] then goto continue end
-            if checkMouseOver(x, y, Hand.cards[i]) then
+            if Util.checkMouseOver(x, y, Hand.cards[i]) then
                   local selectedCard = Hand.cards[i]
                   if Game.cursorMode == CursorMode.none then
                         -- Hand.cards[i].dragging = true
@@ -314,14 +300,14 @@ function love.mousepressed(x, y, button, istouch)
             ::continue::
       end
       for i = 1, #Shop, 1 do
-            if #Shop[i] > 0 and checkMouseOver(x, y, Shop[i][1]) then
+            if #Shop[i] > 0 and Util.checkMouseOver(x, y, Shop[i][1]) then
                   if Game.buyingPower >= Shop[i][1].cost then
                         Game.buyingPower = Game.buyingPower - Shop[i][1].cost
                         table.insert(Discard.cards, table.remove(Shop[i]))
                   end
             end
       end
-      if checkMouseOver(x, y, UI.endTurnButton) then
+      if Util.checkMouseOver(x, y, UI.endTurnButton) then
             Game.endTurn()
       end
 end
@@ -392,7 +378,7 @@ function love.mousemoved(x, y, dx, dy)
       else
             if Game.cursorMode == CursorMode.none then
                   for index, value in ipairs(Hand.cards) do
-                        if checkMouseOver(x, y, value) then
+                        if Util.checkMouseOver(x, y, value) then
                               value.highlight = true
                               value.highlightColour = UI.colours.SELECTED
                         else
