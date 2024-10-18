@@ -70,7 +70,11 @@ local CardTemplate = {
                   love.graphics.print(self.buyCost, self.x + self.w * 0.9, self.y + 2)
             end
             love.graphics.printf(self.title, self.x, self.y + 30, self.w, 'center')
-            love.graphics.printf(self.text, self.x + self.w * 0.1, self.y + self.h * 0.3, self.w * 0.8, 'center')
+            local t = self.text
+            if self.playCost > 0 then
+                  t = 'Discard ' .. self.playCost .. ' cards\n' .. self.text
+            end
+            love.graphics.printf(t, self.x + self.w * 0.1, self.y + self.h * 0.3, self.w * 0.8, 'center')
             if self.highlight then
                   love.graphics.setColor(self.highlightColour)
                   love.graphics.setLineWidth(5)

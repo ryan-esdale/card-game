@@ -5,7 +5,7 @@ local greenCard = CardTemplate:new()
 
 -- Green that costs 2 and draws 4
 greenCard.title = "Green Card"
-greenCard.text = "Discard 2 cards \nDraw 4 cards."
+greenCard.text = "Draw 4 cards."
 greenCard.color = { 0, 1, 0 }
 greenCard.buyCost = 4
 greenCard.playCost = 2

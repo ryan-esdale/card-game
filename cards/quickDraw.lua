@@ -3,7 +3,7 @@ local CardTemplate = require('cards.template')
 -- Card which discards 1 to draw 2
 local quickDraw = CardTemplate:new()
 quickDraw.title = "Quick Draw"
-quickDraw.text = "Discard 1 card.\nDraw 2 card."
+quickDraw.text = "Draw 2 card."
 quickDraw.color = Util.colorConv({ 66, 135, 245 })
 quickDraw.playCost = 1
 quickDraw.play = function(self)

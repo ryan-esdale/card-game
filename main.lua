@@ -163,12 +163,12 @@ function love.load()
                         if not self.cards[index] then
                               return
                         end
-                        local cardToDiscard = self.cards[index]
+                        local cardToDiscard = table.remove(self.cards, index)
 
                         io.write("Discarding " .. cardToDiscard.title .. " card.\n")
                         cardToDiscard:onDiscard()
                         if not cardToDiscard.ethereal then
-                              table.insert(p.discard.cards, table.remove(self.cards, index))
+                              table.insert(p.discard.cards, cardToDiscard)
                         end
                   end,
 
