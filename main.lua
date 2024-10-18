@@ -80,6 +80,13 @@ function love.load()
                   if Game.activePlayer > Game.maxPlayers then
                         Game.activePlayer = 1
                   end
+                  if Util.activePlayer().powers then
+                        for key, value in pairs(Util.activePlayer().powers) do
+                              if value.type == 'turnStart' then
+                                    value.effect()
+                              end
+                        end
+                  end
             end
       }
       for i = 1, Game.maxPlayers, 1 do
@@ -157,17 +164,20 @@ function love.load()
                               return
                         end
                         local cardToDiscard = self.cards[index]
+
                         io.write("Discarding " .. cardToDiscard.title .. " card.\n")
                         cardToDiscard:onDiscard()
-                        table.insert(p.discard.cards, table.remove(self.cards, index))
+                        if not cardToDiscard.ethereal then
+                              table.insert(p.discard.cards, table.remove(self.cards, index))
+                        end
                   end,
 
                   clear = function(self)
                         io.write("Clearing " .. #self.cards .. " cards from hand.\n")
                         for i = 1, #self.cards, 1 do
                               local c = table.remove(self.cards)
-                              if not c.ethereal then
-                                    table.insert(p.discard.cards, table.remove(self.cards))
+                              if c and not c.ethereal then
+                                    table.insert(p.discard.cards, c)
                               end
                         end
                         io.write("Cleared cards from hand.\n")
@@ -185,7 +195,7 @@ function love.load()
                         for i = 1, #self.cards, 1 do
                               local card = table.remove(self.cards)
                               card.scale = Cards['testCard'].scale
-                              if not card.ethereal then
+                              if not card.ethereal and not card.power then
                                     table.insert(p.discard.cards, card)
                               end
                         end
@@ -197,11 +207,18 @@ function love.load()
 
 
       Shop = {
+            {},
             {}
       }
       for i = 1, 10, 1 do
             local tempCard = Cards['fastLooting']:new()
             table.insert(Shop[1], tempCard)
+            io.write("Added a " .. tempCard.title .. " card to Shop.\n")
+      end
+
+      for i = 1, 10, 1 do
+            local tempCard = Cards['outpost']:new()
+            table.insert(Shop[2], tempCard)
             io.write("Added a " .. tempCard.title .. " card to Shop.\n")
       end
 
@@ -217,7 +234,7 @@ function love.draw()
       --Shop
       for i = 1, #Shop, 1 do
             if #Shop[i] > 0 then
-                  Shop[i][1].x = UI.shop.x + (i - 1) * Shop[i][1].w
+                  Shop[i][1].x = UI.shop.x + (i - 1) * Shop[i][1].w + i * 10
                   Shop[i][1].y = UI.shop.y
                   Shop[i][1]:draw()
                   love.graphics.setColor(1, 1, 1)

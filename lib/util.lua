@@ -28,4 +28,8 @@ Util.shuffle = function(tbl)
       return tbl
 end
 
+Util.activePlayer = function()
+      return Game.players[Game.activePlayer]
+end
+
 return Util

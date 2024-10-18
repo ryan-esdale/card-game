@@ -21,6 +21,7 @@ local CardTemplate = {
       playCost = 0,
       playable = true,
       ethereal = false,
+      power = false,
 
       play = function(self)
             if self.playCost > 0 then

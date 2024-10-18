@@ -6756,3 +6756,1253 @@ Added a Asteroid card to hand.
 Added a Asteroid card to hand.
 Added a Asteroid card to hand.
 Added a Asteroid card to hand.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+
+
+Created a new Test Card card.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Rich Asteroid card.
+Added a Rich Asteroid card to deck.
+Created a new Test Card card.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+
+
+Created a new Test Card card.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Rich Asteroid card.
+Added a Rich Asteroid card to deck.
+Created a new Test Card card.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Outpost card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+
+
+Created a new Test Card card.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Rich Asteroid card.
+Added a Rich Asteroid card to deck.
+Created a new Test Card card.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Asteroid card.
+Picked up Asteroid.
+Clearing 4 cards from hand.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+
+
+Created a new Test Card card.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Rich Asteroid card.
+Added a Rich Asteroid card to deck.
+Created a new Test Card card.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Clearing 1 cards from hand.
+Cleared cards from hand.
+Clearing 4 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Quick Draw card to hand.
+Added a Rich Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 2 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Added a Outpost card to hand.
+Created a new Outpost card.
+Picked up Outpost.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Rich Asteroid.
+Discarding Rich Asteroid card.
+Drawing 2 cards.
+Added a Outpost card to hand.
+Added a Asteroid card to hand.
+Created a new Outpost card.
+Picked up Outpost.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 2 cards.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Clearing 4 cards from hand.
+Cleared cards from hand.
+Clearing 3 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Outpost card to hand.
+Added a Asteroid card to hand.
+Added a Outpost card to hand.
+Added a Asteroid card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Discard Me card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Outpost card.
+Picked up Outpost.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 2 cards.
+Added a Asteroid card to hand.
+Added a Quick Draw card to hand.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Dropped Asteroid.
+Created a new Outpost card.
+Picked up Outpost.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Discard Me.
+Discarding Discard Me card.
+Drawing 2 cards.
+Added a Outpost card to hand.
+Added a Asteroid card to hand.
+Created a new Outpost card.
+Picked up Outpost.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 2 cards.
+Added a Rich Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 2 cards.
+Added a Asteroid card to hand.
+Added a Outpost card to hand.
+Created a new Outpost card.
+Picked up Outpost.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 2 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Clearing 4 cards from hand.
+Cleared cards from hand.
+Clearing 5 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Outpost card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Rich Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Added a Outpost card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+
+
+Created a new Test Card card.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Rich Asteroid card.
+Added a Rich Asteroid card to deck.
+Created a new Test Card card.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Clearing 1 cards from hand.
+Cleared cards from hand.
+Clearing 4 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Quick Draw card to hand.
+Added a Rich Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 2 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Added a Outpost card to hand.
+Created a new Outpost card.
+Picked up Outpost.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 2 cards.
+Added a Outpost card to hand.
+Added a Asteroid card to hand.
+Created a new Outpost card.
+Picked up Outpost.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Rich Asteroid.
+Discarding Rich Asteroid card.
+Drawing 2 cards.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Clearing 1 cards from hand.
+Cleared cards from hand.
+Clearing 6 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Outpost card to hand.
+Added a Asteroid card to hand.
+Added a Outpost card to hand.
+Added a Asteroid card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Discard Me card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Outpost card.
+Picked up Outpost.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 2 cards.
+Added a Asteroid card to hand.
+Added a Quick Draw card to hand.
+Created a new Outpost card.
+Picked up Outpost.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 2 cards.
+Added a Asteroid card to hand.
+Added a Outpost card to hand.
+Created a new Outpost card.
+Picked up Outpost.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Quick Draw.
+Discarding Quick Draw card.
+Drawing 2 cards.
+Added a Asteroid card to hand.
+Added a Outpost card to hand.
+Created a new Outpost card.
+Picked up Outpost.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 2 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Clearing 3 cards from hand.
+Cleared cards from hand.
+Clearing 4 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Added a Outpost card to hand.
+Added a Outpost card to hand.
+Added a Rich Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+
+
+Created a new Test Card card.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Rich Asteroid card.
+Added a Rich Asteroid card to deck.
+Created a new Test Card card.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Clearing 3 cards from hand.
+Cleared cards from hand.
+Clearing 2 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Quick Draw card to hand.
+Added a Rich Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Rich Asteroid.
+Discarding Rich Asteroid card.
+Drawing 2 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Discard Me card to hand.
+Added a Outpost card to hand.
+Created a new Outpost card.
+Picked up Outpost.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Clearing 3 cards from hand.
+Cleared cards from hand.
+Clearing 2 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Added a Rich Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Outpost card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Dropped Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Dropped Asteroid.
+Created a new Outpost card.
+Picked up Outpost.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Clearing 4 cards from hand.
+Cleared cards from hand.
+Clearing 1 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Quick Draw card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 2 cards.
+Added a Rich Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Rich Asteroid card.
+Picked up Rich Asteroid.
+Clearing 3 cards from hand.
+Cleared cards from hand.
+Clearing 6 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Rich Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Added a Green Card card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Rich Asteroid.
+Discarding Rich Asteroid card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 4 cards.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Added a Quick Draw card to hand.
+Added a Asteroid card to hand.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Discard Me.
+Discarding Discard Me card.
+Drawing 2 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 11 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Added a Rich Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Rich Asteroid card.
+Picked up Rich Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Picked up Asteroid.
+Clearing 0 cards from hand.
+Cleared cards from hand.
+Clearing 7 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Green Card card to hand.
+Added a Quick Draw card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 4 cards.
+Added a Green Card card to hand.
+Added a Discard Me card to hand.
+Added a Green Card card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Green Card card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 4 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 4 cards.
+Added a Asteroid card to hand.
+Added a Rich Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Created a new Green Card card.
+Picked up Green Card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 4 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Created a new Asteroid card.
+Picked up Asteroid.
+Created a new Asteroid card.
+Dropped Asteroid.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+Created a new Test Card card.
+
+
+Created a new Test Card card.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Asteroid card.
+Added a Asteroid card to deck.
+Created a new Discard Me card.
+Added a Discard Me card to deck.
+Created a new Quick Draw card.
+Added a Quick Draw card to deck.
+Created a new Rich Asteroid card.
+Added a Rich Asteroid card to deck.
+Created a new Test Card card.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Green Card card.
+Added a Green Card card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Outpost card.
+Added a Outpost card to Shop.
+Created a new Asteroid card.
+Picked up Asteroid.
+Clearing 4 cards from hand.
+Cleared cards from hand.
+Clearing 1 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Quick Draw card to hand.
+Added a Rich Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 2 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Added a Outpost card to hand.
+Clearing 6 cards from hand.
+Cleared cards from hand.
+Clearing 1 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Added a Rich Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Clearing 6 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Outpost card to hand.
+Added a Quick Draw card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Added a Quick Draw card to hand.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Rich Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Outpost card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Clearing 6 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Added a Outpost card to hand.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Added a Rich Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Quick Draw card to hand.
+Clearing 6 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Quick Draw card to hand.
+Added a Asteroid card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Discard Me card to hand.
+Added a Outpost card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Rich Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Outpost card to hand.
+Added a Asteroid card to hand.
+Added a Quick Draw card to hand.
+Added a Asteroid card to hand.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 2 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Clearing 6 cards from hand.
+Cleared cards from hand.
+Clearing 1 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Quick Draw card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Outpost card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Rich Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Added a Quick Draw card to hand.
+Added a Asteroid card to hand.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 2 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Clearing 6 cards from hand.
+Cleared cards from hand.
+Clearing 1 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Added a Outpost card to hand.
+Added a Asteroid card to hand.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Rich Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Quick Draw card to hand.
+Added a Asteroid card to hand.
+Created a new Quick Draw card.
+Picked up Quick Draw.
+Discarding Asteroid.
+Discarding Asteroid card.
+Drawing 2 cards.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Clearing 6 cards from hand.
+Cleared cards from hand.
+Clearing 1 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Not enough cards in deck, forcing reshuffle.
+Added a Asteroid card to hand.
+Added a Discard Me card to hand.
+Added a Asteroid card to hand.
+Added a Outpost card to hand.
+Added a Asteroid card to hand.
+Clearing 5 cards from hand.
+Cleared cards from hand.
+Clearing 0 played cards.
+Cleared Played Cards.
+Drawing 5 cards.
+Added a Quick Draw card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Asteroid card to hand.
+Added a Rich Asteroid card to hand.
+Created a new Asteroid card.
+Added a Asteroid card to hand.
