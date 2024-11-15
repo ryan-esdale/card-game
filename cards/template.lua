@@ -10,8 +10,8 @@ local CardTemplate = {
       x = 0,
       y = 0,
       scale = 0.6,
-      w = 350 * 0.6,
-      h = 500 * 0.6,
+      w = 350 * 0.6, -- 210
+      h = 500 * 0.6, -- 300
       color = { 1, 1, 1 },
 
       dragging = false,
@@ -22,6 +22,8 @@ local CardTemplate = {
       playable = true,
       ethereal = false,
       power = false,
+      isAsteroid = false,
+
 
       play = function(self)
             if self.playCost > 0 then
@@ -48,9 +50,11 @@ local CardTemplate = {
             o = o or {}
             setmetatable(o, self)
             self.__index = self
+            self.objectID = #GameObjects + 1
             if self.title ~= "spacer" then
                   io.write("Created a new " .. self.title .. " card.\n")
             end
+            table.insert(GameObjects, self.objectID, self)
             return o
       end,
 
@@ -84,6 +88,12 @@ local CardTemplate = {
             if self.ethereal then
                   love.graphics.printf("ETHEREAL", self.x + self.w * 0.1, self.y + self.h * 0.8, self.w * 0.8, 'center')
             end
+
+            love.graphics.draw(self.img, self.x, self.y)
+      end,
+
+      destroy = function(self)
+            GameObjects[self.objectID] = nil
       end
 }
 

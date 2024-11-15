@@ -1,8 +1,7 @@
-local outpost = {
+local power = {
       type = 'turnStart',
       effect = function()
             local a = require('cards.asteroid'):new()
-            a.ethereal = true
             Util.activePlayer().hand:addCard(a)
       end,
       new = function(self, o)
@@ -13,4 +12,4 @@ local outpost = {
       end,
 }
 
-return outpost
+return power

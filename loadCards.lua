@@ -12,7 +12,7 @@ local CARDS = {
 local d = love.filesystem.getDirectoryItems('cards')
 for index, v in ipairs(d) do
       local title = string.sub(v, 1, #v - 4)
-      if string.sub(title, 1, 5) ~= 'debug' then
+      if string.sub(title, 1, 5) ~= 'debug' and string.sub(title, 1, 3) ~= 'img' then
             CARDS[title] = require('cards.' .. title)
       end
 end

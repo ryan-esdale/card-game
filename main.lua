@@ -3,6 +3,7 @@ io.output(debugFile)
 
 Util = require('lib.util')
 Player = require('player')
+GameObjects = {}
 
 function love.load()
       io.write("\n\n")
@@ -11,6 +12,8 @@ function love.load()
       love.window.setTitle("Test Window Title")
       love.window.setMode(2500, 1200)
       love.graphics.setBackgroundColor(0.2, 0.2, 0.2)
+
+
 
       -- UI Setup
 
@@ -66,6 +69,7 @@ function love.load()
             activePlayer = 1,
             cursorMode = CursorMode.none,
             discardCount = 0,
+            discardingList = {},
             discardCallback = function()
             end,
             turnCount = 1,
@@ -113,6 +117,7 @@ function love.load()
                   end,
             }
 
+            setmetatable(p.deck.cards, { __mode = 'v' })
             p.deck:addCard('asteroid', 7)
             p.deck:addCard('discardMe')
             p.deck:addCard('quickDraw')
@@ -128,6 +133,7 @@ function love.load()
                   cards = {}
             }
 
+            setmetatable(p.discard.cards, { __mode = 'v' })
             -- Discard
             p.discard.graphic.color = { 1, 1, 1 }
             p.discard.graphic.x = UI.hand.x + UI.hand.w + p.discard.graphic.w + 100
@@ -184,6 +190,7 @@ function love.load()
                   end
 
             }
+            setmetatable(p.hand.cards, { __mode = 'v' })
             for i = 1, 5, 1 do
                   p.hand:addCard(table.remove(p.deck.cards))
             end
@@ -203,10 +210,12 @@ function love.load()
                   end
             }
       end
-      GameObjects = {}
+
 
 
       Shop = {
+            {},
+            {},
             {},
             {}
       }
@@ -219,6 +228,18 @@ function love.load()
       for i = 1, 10, 1 do
             local tempCard = Cards['outpost']:new()
             table.insert(Shop[2], tempCard)
+            io.write("Added a " .. tempCard.title .. " card to Shop.\n")
+      end
+
+      for i = 1, 10, 1 do
+            local tempCard = Cards['asteroidGenerator']:new()
+            table.insert(Shop[3], tempCard)
+            io.write("Added a " .. tempCard.title .. " card to Shop.\n")
+      end
+
+      for i = 1, 10, 1 do
+            local tempCard = Cards['moneyLender']:new()
+            table.insert(Shop[4], tempCard)
             io.write("Added a " .. tempCard.title .. " card to Shop.\n")
       end
 
@@ -349,13 +370,15 @@ function love.mousepressed(x, y, button, istouch)
                         io.write("Discarding " .. selectedCard.title .. ".\n")
                         Hand:discard(i)
                         Game.discardCount = Game.discardCount - 1
+                        table.insert(Game.discardingList, selectedCard)
                         if Game.discardCount <= 0 then
-                              Game.discardCallback()
+                              Game.discardCallback(Game.discardingList)
                               Game.cursorMode = CursorMode.none
                               for index, value in ipairs(Hand.cards) do
                                     value.highlight = false
                                     value.highlightColour = UI.colours.HIGHLIGHT
                               end
+                              Game.discardingList = {}
                         end
                   end
             end
