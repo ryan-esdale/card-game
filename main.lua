@@ -117,7 +117,7 @@ function love.load()
                   end,
             }
 
-            setmetatable(p.deck.cards, { __mode = 'v' })
+            -- setmetatable(p.deck.cards, { __mode = 'v' })
             p.deck:addCard('asteroid', 7)
             p.deck:addCard('discardMe')
             p.deck:addCard('quickDraw')
@@ -133,7 +133,7 @@ function love.load()
                   cards = {}
             }
 
-            setmetatable(p.discard.cards, { __mode = 'v' })
+            -- setmetatable(p.discard.cards, { __mode = 'v' })
             -- Discard
             p.discard.graphic.color = { 1, 1, 1 }
             p.discard.graphic.x = UI.hand.x + UI.hand.w + p.discard.graphic.w + 100
@@ -145,6 +145,8 @@ function love.load()
                   spacerIndex = -1,
                   cards = {},
                   addCard = function(self, card)
+                        card.targetX = UI.hand.x + #self.cards * card.w
+                        card.targetY = UI.hand.y + 3
                         table.insert(self.cards, card)
                         io.write("Added a " .. card.title .. " card to hand.\n")
                   end,
@@ -190,7 +192,7 @@ function love.load()
                   end
 
             }
-            setmetatable(p.hand.cards, { __mode = 'v' })
+            -- setmetatable(p.hand.cards, { __mode = 'v' })
             for i = 1, 5, 1 do
                   p.hand:addCard(table.remove(p.deck.cards))
             end
@@ -221,6 +223,8 @@ function love.load()
       }
       for i = 1, 10, 1 do
             local tempCard = Cards['fastLooting']:new()
+            -- tempCard.x = UI.shop.x + (i - 1) * tempCard.w + i * 10
+            -- tempCard.y = UI.shop.y
             table.insert(Shop[1], tempCard)
             io.write("Added a " .. tempCard.title .. " card to Shop.\n")
       end
@@ -243,21 +247,36 @@ function love.load()
             io.write("Added a " .. tempCard.title .. " card to Shop.\n")
       end
 
+      for i = 1, #Shop, 1 do
+            if #Shop[i] > 0 then
+                  for j = 1, #Shop[i], 1 do
+                        Shop[i][j].x = UI.shop.x + (i - 1) * Shop[i][j].w + i * 10
+                        Shop[i][j].y = UI.shop.y
+                  end
+                  -- Shop[i][1]:draw()
+                  -- love.graphics.setColor(1, 1, 1)
+                  -- love.graphics.printf(#Shop[i] .. " Remaining", Shop[i][1].x, Shop[i][1].y + Shop[i][1].h + 10,
+                  --       Shop[i][1].w, 'center')
+            end
+      end
+
       cursorCard = nil
       cursorCardID = nil
 end
 
 function love.update(dt)
-
+      for index, obj in ipairs(GameObjects) do
+            obj:update(dt)
+      end
 end
 
 function love.draw()
       --Shop
       for i = 1, #Shop, 1 do
             if #Shop[i] > 0 then
-                  Shop[i][1].x = UI.shop.x + (i - 1) * Shop[i][1].w + i * 10
-                  Shop[i][1].y = UI.shop.y
-                  Shop[i][1]:draw()
+                  -- Shop[i][1].x = UI.shop.x + (i - 1) * Shop[i][1].w + i * 10
+                  -- Shop[i][1].y = UI.shop.y
+                  -- Shop[i][1]:draw()
                   love.graphics.setColor(1, 1, 1)
                   love.graphics.printf(#Shop[i] .. " Remaining", Shop[i][1].x, Shop[i][1].y + Shop[i][1].h + 10,
                         Shop[i][1].w, 'center')
@@ -283,14 +302,18 @@ function love.draw()
             -- if not PlayedCards.cards[i] then goto continue end
             -- card.scale = 0.6
             -- Increment Row when edge of screen reached
-            card.y = UI.playedCards.y + 50 +
-                ((math.modf((i * card.w) / love.graphics.getWidth())) * card.h)
-            --     ((math.modf((i * card.w * card.scale) / love.graphics.getWidth())) * card.h * card.scale)
-            -- Reset to 0 X when row incremented
-            card.x = UI.playedCards.x + (6 * i) + card.w * (i - 1) -
-                ((math.modf((i * card.w) / love.graphics.getWidth())) * (math.modf(love.graphics.getWidth() / card.w) * card.w))
+
+            -- card.y = UI.playedCards.y + 50 +
+            --     ((math.modf((i * card.w) / love.graphics.getWidth())) * card.h)
+            -- --     ((math.modf((i * card.w * card.scale) / love.graphics.getWidth())) * card.h * card.scale)
+
+            -- -- Reset to 0 X when row incremented
+            -- card.x = UI.playedCards.x + (6 * i) + card.w * (i - 1) -
+            --     ((math.modf((i * card.w) / love.graphics.getWidth())) * (math.modf(love.graphics.getWidth() / card.w) * card.w))
+
+
             -- card.x = (6 * i) + card.w * card.scale * (i - 1) - ((math.modf((i * card.w * card.scale) / love.graphics.getWidth())) * (math.modf(love.graphics.getWidth() / card.w * card.scale) * card.w * card.scale))
-            card:draw()
+            -- card:draw()
             -- ::continue::
       end
 
@@ -298,19 +321,19 @@ function love.draw()
       love.graphics.setColor(0.6, 0.6, 0.6)
       love.graphics.rectangle("fill", UI.hand.x, UI.hand.y, UI.hand.w, UI.hand.h)
 
-      for i = 1, #Game.players[Game.activePlayer].hand.cards, 1 do
-            if not Game.players[Game.activePlayer].hand.cards[i] then goto continue end
-            if Game.players[Game.activePlayer].hand.cards[i].title == "spacer" then goto continue end
-            Game.players[Game.activePlayer].hand.cards[i].x = UI.hand.x +
-                Game.players[Game.activePlayer].hand.cards[i].w * (i - 1) + (8 * i)
-            Game.players[Game.activePlayer].hand.cards[i].y = UI.hand.y + 5
-            Game.players[Game.activePlayer].hand.cards[i]:draw()
-            ::continue::
-      end
+      -- for i = 1, #Game.players[Game.activePlayer].hand.cards, 1 do
+      --       if not Game.players[Game.activePlayer].hand.cards[i] then goto continue end
+      --       if Game.players[Game.activePlayer].hand.cards[i].title == "spacer" then goto continue end
+      --       Game.players[Game.activePlayer].hand.cards[i].targetX = UI.hand.x +
+      --           Game.players[Game.activePlayer].hand.cards[i].w * (i - 1) + (8 * i)
+      --       Game.players[Game.activePlayer].hand.cards[i].targetY = UI.hand.y + 5
+      --       -- Game.players[Game.activePlayer].hand.cards[i]:draw()
+      --       ::continue::
+      -- end
 
       -- Cursor Card
       if cursorCard then
-            cursorCard:draw()
+            -- cursorCard:draw()
       end
 
       -- Turn stats
@@ -337,12 +360,19 @@ function love.draw()
             ", Cards in Deck: " ..
             #Game.players[Game.activePlayer].deck.cards ..
             ", Cards in Discard: " .. #Game.players[Game.activePlayer].discard.cards
-            .. ", Active player: " .. Game.activePlayer)
+            .. ", Active player: " .. Game.activePlayer
+            .. ", Game Object Count: " .. #GameObjects)
       local s = "DecK: "
       for i = 1, #Game.players[Game.activePlayer].deck.cards, 1 do
             s = s .. Game.players[Game.activePlayer].deck.cards[i].title .. " "
       end
       love.graphics.print(s, 50, 100)
+
+      for index, value in ipairs(GameObjects) do
+            value:draw()
+            love.graphics.setColor(1, 1, 1)
+            love.graphics.print("AWDwadwdwad: " .. value.objectID, value.x, value.y)
+      end
 end
 
 function love.mousepressed(x, y, button, istouch)
@@ -358,11 +388,11 @@ function love.mousepressed(x, y, button, istouch)
                   local selectedCard = Hand.cards[i]
                   if Game.cursorMode == CursorMode.none then
                         -- Hand.cards[i].dragging = true
-                        cursorCard = selectedCard:new()
+                        cursorCard = table.remove(Hand.cards, i)
+                        -- cursorCard = selectedCard:new()
                         cursorCard.highlight = false
                         io.write("Picked up " .. cursorCard.title .. ".\n")
                         cursorCardID = i
-                        table.remove(Hand.cards, i)
                         -- cursorCard.x = x - cursorCard.w
                         -- cursorCard.y = y - cursorCard.h
                         goto continue
@@ -409,7 +439,8 @@ function love.mousereleased(x, y, button, istouch)
                   cursorCard.dragging = false
                   local indexToMove = math.modf(x / cursorCard.w) + 1 -- Add one becuase lua arrays are 1-indexed
                   if indexToMove > #Hand.cards + 1 then indexToMove = #Hand.cards + 1 end
-                  table.insert(Hand.cards, indexToMove, cursorCard:new())
+                  -- table.insert(Hand.cards, indexToMove, cursorCard:new())
+                  table.insert(Hand.cards, indexToMove, cursorCard)
                   io.write("Dropped " .. cursorCard.title .. ".\n")
             end
             for i = #Hand.cards, 1, -1 do

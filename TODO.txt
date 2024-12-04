@@ -1,0 +1,5 @@
+
+
+Refactor draw and update math so that they amount of processing in the main draw/update loops can be reduced.
+
+Ideally all should be simplified to: foreach: GameObjects.draw() end etc.

@@ -1,0 +1,178 @@
+Updated Market Card List (Including Refined Disruptive Cards)
+Core Market Cards
+
+    Cargo Drone
+        Buying Cost: 2 credits
+        Discard Cost: 1 card
+        Effect: Gain 1 credit and return 1 discarded card to your hand.
+
+    Supply Depot
+        Buying Cost: 2 credits
+        Discard Cost: 1 card
+        Effect: Gain 1 credit and draw 1 card.
+
+    Mining Rig
+        Buying Cost: 3 credits
+        Discard Cost: 2 cards
+        Effect: Gain 2 credits.
+
+    Recycling Plant
+        Buying Cost: 3 credits
+        Discard Cost: 2 cards
+        Effect: Gain 1 credit for each card you discard this turn.
+
+    Asteroid Miner
+        Buying Cost: 2 credits
+        Discard Cost: 1 card
+        Effect: Gain 1 credit and 1 point if you played an Asteroid this turn.
+
+Keyword Cards
+
+    Salvage Drone
+        Buying Cost: 2 credits
+        Discard Cost: 1 card
+        Effect: Gain 1 credit.
+        Keyword: Recycle
+
+    Debris Collector
+        Buying Cost: 3 credits
+        Discard Cost: 1 card
+        Effect: Gain 1 point and 1 credit.
+        Keyword: Recycle
+
+    Organic Colony
+        Buying Cost: 3 credits
+        Discard Cost: 2 cards
+        Effect: Gain 1 point.
+        Evolve Effect: Gain 1 extra point if played after an Organic card.
+
+    Adaptive Ship
+        Buying Cost: 4 credits
+        Discard Cost: 2 cards
+        Effect: Gain 2 credits.
+        Evolve Effect: Draw 1 card if played after a Ship card.
+
+    Trade Hub
+
+    Buying Cost: 5 credits
+    Discard Cost: 2 cards
+    Effect: At the start of your turn, gain 1 credit.
+    Keyword: Deploy
+
+    Defense Satellite
+
+    Buying Cost: 4 credits
+    Discard Cost: 2 cards
+    Effect: Opponents must discard 1 additional card to play attack cards.
+    Keyword: Deploy
+
+    Quantum Burst
+
+    Buying Cost: 3 credits
+    Discard Cost: 1 card
+    Effect: Gain 3 points.
+    Keyword: Ethereal
+
+    Temporal Beacon
+
+    Buying Cost: 4 credits
+    Discard Cost: 2 cards
+    Effect: Gain 2 credits and draw 2 cards.
+    Keyword: Ethereal
+
+Draw/Discard-Triggered Cards
+
+    Exo-Harvester
+
+    Buying Cost: 3 credits
+    Discard Cost: 2 cards
+    Effect: When drawn, gain 1 credit.
+
+    Neural Nexus
+
+    Buying Cost: 4 credits
+    Discard Cost: 2 cards
+    Effect: When drawn, draw an additional card.
+
+    Void Echo
+
+    Buying Cost: 2 credits
+    Discard Cost: 1 card
+    Effect: When discarded, gain 1 point.
+
+    Shifting Spire
+
+    Buying Cost: 3 credits
+    Discard Cost: 2 cards
+    Effect: When discarded, gain 2 credits.
+
+    Phantom Frigate
+
+    Buying Cost: 5 credits
+    Discard Cost: 2 cards
+    Effect: When discarded, return this card to your hand.
+
+Disruptive Cards
+
+    Redistribution Protocol
+
+    Buying Cost: 4 credits
+    Discard Cost: 2 cards
+    Effect: Gain 2 credits if at least one player has more points than you.
+
+    Galactic Amnesty
+
+    Buying Cost: 6 credits
+    Discard Cost: 3 cards
+    Effect: Each player gains 3 credits. You gain 1 additional credit for each player with more points than you.
+
+    Sabotage Drone
+
+    Buying Cost: 6 credits
+    Discard Cost: 3 cards
+    Effect: Randomly destroy one card from an opponent’s deck that costs 4 credits or less.
+
+    Crisis Response Fleet
+
+    Buying Cost: 7 credits
+    Discard Cost: 3 cards
+    Effect: Gain 5 points. Opponents with more points than you lose 1 point each.
+
+    Neutral Zone Treaty
+
+    Buying Cost: 5 credits
+    Discard Cost: 2 cards
+    Effect: Cancel all Deploy effects from opponents until your next turn.
+
+    Blackout Beacon
+
+    Buying Cost: 4 credits
+    Discard Cost: 2 cards
+    Effect: Opponents cannot draw extra cards until your next turn.
+
+    Forced Requisition
+
+    Buying Cost: 4 credits
+    Discard Cost: 2 cards
+    Effect: Gain 1 point for each card discarded by opponents this turn.
+
+Game Summary
+Core Concept
+
+    Space-Themed Deck-Building Game: Players acquire cards from a shared market, generate resources, and play cards to achieve synergy. The game ends when a shared pool of points is depleted.
+
+Mechanics
+
+    Players must discard cards to play others, introducing trade-offs between hand utility and resource generation.
+    Factions: Each player has a unique faction with tailored abilities and starting cards.
+    Keywords: Introduced gameplay-enhancing keywords like Recycle, Evolve, Deploy, and Ethereal.
+    Triggered Effects: Cards can now trigger effects on draw or discard, adding new strategic depth.
+    Disruptive Cards: Introduced mechanics for disrupting opponent strategies or catching up when behind.
+
+Market Cards
+
+    Currently, 25 unique market cards, including core resource-generating cards, keyword-enhanced cards, draw/discard-triggered cards, and disruptive catch-up cards.
+
+Pending Ideas
+
+    Future expansion: Event Deck for global effects at the start of each round.
