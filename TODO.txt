@@ -1,5 +1,5 @@
 
+Build out the interaction mode bits, try and have a nice way of displaying text
 
-Refactor draw and update math so that they amount of processing in the main draw/update loops can be reduced.
-
-Ideally all should be simplified to: foreach: GameObjects.draw() end etc.
+Catch highlights of cards moving to zones better
+Re: above -> Introduce a standard method for processing cards as they move from zone to zone ensuring things like highlights/hidden flags are set correctly
