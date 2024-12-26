@@ -11,15 +11,19 @@ local CardTemplate = {
       y = 0,
       targetX = 0,
       targetY = 0,
-      speed = 500,
+      speed = 800,
       scale = 1,
       targetScale = 1,
       rotation = 0,
       targetRotation = 0,
-      w = 210, -- 210
-      h = 300, -- 300
+      w = 160, -- 210
+      h = 200, -- 300
       color = { 1, 1, 1 },
 
+      barterValue = 1,
+      hidden = true,
+      hideOnDestination = false,
+      faceDown = false,
       dragging = false,
       highlight = false,
       highlightColour = { 96, 250, 45 },
@@ -63,11 +67,11 @@ local CardTemplate = {
             o = o or {}
             setmetatable(o, self)
             self.__index = self
-            self.objectID = #GameObjects + 1
+            o.objectID = #GameObjects + 1
             if self.title ~= "spacer" then
                   io.write("Created a new " .. self.title .. " card.\n")
             end
-            table.insert(GameObjects, self.objectID, self)
+            table.insert(GameObjects, o.objectID, o)
             return o
       end,
 
@@ -79,6 +83,9 @@ local CardTemplate = {
       end,
 
       draw = function(self)
+            if self.hidden then
+                  return
+            end
             love.graphics.push()
             love.graphics.setColor(self.color)
 
@@ -94,7 +101,7 @@ local CardTemplate = {
             love.graphics.printf(self.title, 0, 30, self.w, 'center')
             local t = self.text
             if self.playCost > 0 then
-                  t = 'Discard ' .. self.playCost .. ' cards\n' .. self.text
+                  t = 'Discard ' .. self.playCost .. ' cards\n\n' .. self.text
             end
             love.graphics.printf(t, self.w * 0.1, self.h * 0.3, self.w * 0.8, 'center')
             if self.highlight then
@@ -109,11 +116,19 @@ local CardTemplate = {
 
             -- love.graphics.printf("targX: " .. self.targetX, self.w * 0.1, self.h * 0.8, self.w * 0.8,'center')
             love.graphics.printf("ID: " .. self.objectID, self.w * 0.1, self.h * 0.8, self.w * 0.8, 'center')
+            if self.hidden then
+                  love.graphics.printf("DEBUG HIDDEN", self.w * 0.1, self.h * 0.5, self.w * 0.8, 'center')
+            end
+
             -- love.graphics.draw(self.img, self.x, self.y)
             love.graphics.pop()
       end,
 
       update = function(self, dt)
+            if self.dragging then
+                  self.targetX = self.x
+                  self.targetY = self.y
+            end
             -- Update position
             local dx = self.targetX - self.x
             local dy = self.targetY - self.y
@@ -127,6 +142,9 @@ local CardTemplate = {
             if distance < 10 then
                   self.x = self.targetX
                   self.y = self.targetY
+                  if self.hideOnDestination then
+                        self.hidden = true
+                  end
             end
 
             -- Update scale
@@ -147,7 +165,28 @@ local CardTemplate = {
       end,
 
       destroy = function(self)
-            GameObjects[self.objectID] = nil
+            -- Check hand, discard, deck and shop for the card and remove it if found
+            local lists = {}
+
+            for index, shop in ipairs(Shop) do
+                  table.insert(lists, shop)
+            end
+            for index, player in ipairs(Game.players) do
+                  table.insert(lists, player.hand)
+                  table.insert(lists, player.discard)
+                  table.insert(lists, player.deck)
+            end
+
+            for index, list in ipairs(lists) do
+                  Util.removeFromList(list, self)
+                  -- for index, card in ipairs(list) do
+                  --       if card.objectID == self.objectID then
+                  --             io.write("Found card " .. self.title .. " in list.\n")
+                  --             -- card = nil
+                  --       end
+                  -- end
+            end
+            -- GameObjects[self.objectID] = nil
       end
 }
 

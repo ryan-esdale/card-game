@@ -33,4 +33,12 @@ Util.activePlayer = function()
       return Game.players[Game.activePlayer]
 end
 
+Util.removeFromList = function(list, item)
+      for i = #list, 1, -1 do
+            if list[i] == item then
+                  table.remove(list, i)
+            end
+      end
+end
+
 return Util

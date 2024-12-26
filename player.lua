@@ -10,6 +10,7 @@ local Player = {
       discard = {},
       playedCards = {},
       powers = {},
+      points = 0,
       new = function(self, id)
             local o = {}
             setmetatable(o, self)
