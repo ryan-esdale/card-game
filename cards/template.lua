@@ -36,6 +36,8 @@ local CardTemplate = {
 
 
       play = function(self)
+            WSClient:send("{\"CardPlayed:\":{\"Name\":\"" .. self.title
+                  .. "\"}}")
             if self.playCost > 0 then
                   Game.discardCount = self.playCost
                   Game.cursorMode = CursorMode.discard

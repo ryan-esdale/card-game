@@ -1,9 +1,33 @@
 local debugFile = io.open('debug.txt', 'a+')
 io.output(debugFile)
-
+json = require('lib.json')
 Util = require('lib.util')
 Player = require('player')
 GameObjects = {}
+
+WSClient = require("lib.websocket").new("127.0.0.1", 8080)
+function WSClient:onmessage(message)
+      print(message)
+      local decoded = json.decode(message)
+      if decoded.type == 'welcome' then
+            print("Assigned player number #" .. decoded.playerId)
+      end
+end
+
+function WSClient:onopen()
+      -- self:send("\"hello from love2d\"")
+      -- self:send("{\"type\": \"join\"}")
+      self:send(json.encode({ type = 'join' }))
+      -- self:close()
+end
+
+function WSClient:onclose(code, reason)
+      print("closecode: " .. code .. ", reason: " .. reason)
+end
+
+-- function love.update()
+-- client:update()
+-- end
 
 function love.load()
       io.write("\n\n")
@@ -14,7 +38,7 @@ function love.load()
       love.graphics.setBackgroundColor(0.2, 0.2, 0.2)
 
 
-
+      -- WSClient:send("{\"type\": \"join\", \"playerId\": \"Player_Lua\"}")
       -- UI Setup
 
       UI = {
@@ -310,6 +334,7 @@ function love.load()
 end
 
 function love.update(dt)
+      WSClient:update()
       for index, obj in ipairs(GameObjects) do
             obj:update(dt)
       end
@@ -484,7 +509,7 @@ function love.mousepressed(x, y, button, istouch)
                         Shop[i][1].targetX = p.discard.graphic.x
                         Shop[i][1].targetY = p.discard.graphic.y
                         Shop[i][1].hideOnDestination = true
-                        table.insert(Discard.cards, table.remove(Shop[i],1))
+                        table.insert(Discard.cards, table.remove(Shop[i], 1))
                   end
             end
       end
@@ -591,6 +616,7 @@ end
 
 function love.keypressed(key)
       if key == 'q' then
+            WSClient:close()
             love.event.quit()
       end
 end
