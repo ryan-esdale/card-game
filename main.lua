@@ -5,7 +5,8 @@ Util = require('lib.util')
 Player = require('player')
 GameObjects = {}
 
-WSClient = require("lib.websocket").new("127.0.0.1", 8080)
+-- WSClient = require("lib.websocket").new("127.0.0.1", 8080)
+WSClient = require("lib.websocket").new("192.168.1.117", 8080)
 function WSClient:onmessage(message)
       print(message)
       local decoded = json.decode(message)
@@ -34,7 +35,7 @@ function love.load()
 
       -- Window layout setup
       love.window.setTitle("Test Window Title")
-      love.window.setMode(1500, 900)
+      love.window.setMode(1500, 900, { resizable = true })
       love.graphics.setBackgroundColor(0.2, 0.2, 0.2)
 
 
